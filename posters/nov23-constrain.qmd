@@ -1,11 +1,7 @@
 ---
-format: 
-  clean-revealjs:
-    self-contained: true
-    navigation-mode: linear
-    controls-layout: bottom-right
-    controls: true
-    footer: "MSci Grasiele Romanzini-Bezerra | Title"
+format:
+  html:
+    embed-resources: true
 title: "Title" 
 author: "MSci Grasiele Romanzini-Bezerra"
 bibliography: nov23-constrain.bib
