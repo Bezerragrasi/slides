@@ -1,0 +1,14 @@
+---
+title: "MSci Romanzini-Bezerra Slides"
+format:
+  html:
+    embed-resources: true
+---
+
+Public facing homepage for MSci Romanzini-Bezerra's slides collection
+
+## Slides: 
+
+- [CONSTRAIN Poster Bibliography](./posters/nov23-constrain.qmd)
+
+*Note: this page is under construction. As soon as new slides are available, new links will be provided.*
