@@ -1,0 +1,28 @@
+---
+format: 
+  clean-revealjs:
+    self-contained: true
+    navigation-mode: linear
+    controls-layout: bottom-right
+    controls: true
+    footer: "MSci Grasiele Romanzini-Bezerra | Title"
+title: "Title" 
+author: "MSci Grasiele Romanzini-Bezerra"
+bibliography: nov23-constrain.bib
+---
+
+## Bibliography{.smaller}
+
+---
+nocite: |
+  @Lamboll2023, @Hegglin2022, @Tebaldi, @Spring2020, @Maycock2016, @ONeill2016,
+  @Maycock2018, @IPCC2021, @marotzke2019, @mckenna2021, @maher2020, @zelinka2020,
+  @zou2016, @Lee2021, @Manabe1975
+---
+
+::: {#refs}
+:::
+
+## Qr Code
+
+{{< qrcode https://bezerragrasi.github.io/slides/posters/nov23-constrain width=200 height=200 colorDark='#00502f' >}}
