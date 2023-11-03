@@ -2,8 +2,8 @@
 format:
   html:
     embed-resources: true
-title: "Title" 
-author: "MSci Grasiele Romanzini-Bezerra"
+title: "Rapidly observable temperature signals following stringent climate mitigation" 
+author: "Grasiele Romanzini-Bezerra, Amanda C. Maycock"
 bibliography: nov23-constrain.bib
 ---
 
