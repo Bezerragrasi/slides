@@ -1,0 +1,49 @@
+---
+format: 
+  clean-revealjs:
+    self-contained: true
+    navigation-mode: linear
+    controls-layout: bottom-right
+    controls: true
+    footer: "MSc Grasiele Romanzini Bezerra | Integrated PhD and MSc in Future Fluid Dynamics | [📋](#research-experience)"
+title: "PhD Interview - Integrated PhD and MSc in Future Fluid Dynamics"
+author: "Grasiele Romanzini Bezerra"
+---
+
+## Research Experience
+
+<!--
+Obs: Replace the images! You can also remove the image caption and increase the size of img.
+-->
+
+::: {layout-ncol=2}
+
+[![Research Assistant](../assets/imgs/master-cover.png){width="250"}](#research-assistant)
+
+[![Master Student](../assets/imgs/master-cover.png){width="250"}](#master-student)
+
+:::
+
+::: {layout-ncol=2}
+
+[![Scientific Initiation](../assets/imgs/master-cover.png){width="250"}](#scientific-initiation)
+
+[![Data Science Internship](../assets/imgs/master-cover.png){width="250"}](#data-science-internship)
+
+:::
+
+## Research Assistant
+
+add content here
+
+## Master Student
+
+add content here
+
+## Scientific Initiation
+
+add content here
+
+## Data Science Internship
+
+add content here

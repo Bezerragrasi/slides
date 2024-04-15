@@ -11,4 +11,8 @@ Public facing homepage for MSci Romanzini-Bezerra's slides collection
 
 - [CONSTRAIN Poster Bibliography](./posters/nov23-constrain.qmd)
 
+## Interview:
+
+- [PhD Interview - Integrated PhD and MSc in Future Fluid Dynamics 2024](./interview/fd-phd-2024.qmd)
+
 *Note: this page is under construction. As soon as new slides are available, new links will be provided.*
