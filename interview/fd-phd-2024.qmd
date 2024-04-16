@@ -18,17 +18,17 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 ::: {layout-ncol=2}
 
-[![Research Assistant](../assets/imgs/master-cover.png){width="250"}](#research-assistant)
+[![Research Assistant](../assets/imgs/experience/headers/RA_header.png){width="250"}](#research-assistant)
 
-[![Master Student](../assets/imgs/master-cover.png){width="250"}](#master-student)
+[![Master Research](../assets/imgs/experience/headers/MS_header.png){width="250"}](#master-student)
 
 :::
 
 ::: {layout-ncol=2}
 
-[![Scientific Initiation](../assets/imgs/master-cover.png){width="250"}](#scientific-initiation)
+[![Professional Certificate in Data Science](../assets/imgs/experience/headers/DS_header.png){width="250"}](#scientific-initiation)
 
-[![Data Science Internship](../assets/imgs/master-cover.png){width="250"}](#data-science-internship)
+[![Undergrad Research](../assets/imgs/experience/headers/IC_header.png){width="250"}](#data-science-internship)
 
 :::
 
@@ -36,14 +36,14 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 add content here
 
-## Master Student
+## Master Research
 
 add content here
 
-## Scientific Initiation
+## Professional Certificate in Data Science
 
 add content here
 
-## Data Science Internship
+## Undergrad Research
 
 add content here
