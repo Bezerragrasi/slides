@@ -43,7 +43,7 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 ## Professional Certificate in Data Science
 
-add content here
+![](../assets/imgs/experience/DS/DS_chart.png)
 
 ## Undergrad Research
 
