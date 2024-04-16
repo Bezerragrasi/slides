@@ -47,4 +47,4 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 ## Undergrad Research
 
-add content here
+![](../assets/imgs/experience/IC/IC_chart.png)
