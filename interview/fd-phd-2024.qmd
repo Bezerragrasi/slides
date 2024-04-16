@@ -18,17 +18,17 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 ::: {layout-ncol=2}
 
-[![Research Assistant](../assets/imgs/experience/headers/RA_header2.png){width="450"}](#research-assistant)
+[![](../assets/imgs/experience/headers/RA_header2.png){width="450"}](#research-assistant)
 
-[![Master Research](../assets/imgs/experience/headers/MS_header2.png){width="450"}](#master-student)
+[![](../assets/imgs/experience/headers/MS_header2.png){width="450"}](#master-research)
 
 :::
 
 ::: {layout-ncol=2}
 
-[![Professional Certificate in Data Science](../assets/imgs/experience/headers/DS_header2.png){width="450"}](#scientific-initiation)
+[![](../assets/imgs/experience/headers/DS_header2.png){width="450"}](#professional-certificate-in-data-science)
 
-[![Undergrad Research](../assets/imgs/experience/headers/IC_header2.png){width="450"}](#data-science-internship)
+[![](../assets/imgs/experience/headers/IC_header2.png){width="450"}](#undergrad-research)
 
 :::
 
