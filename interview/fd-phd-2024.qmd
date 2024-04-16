@@ -18,7 +18,7 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 ::: {layout-ncol=2}
 
-[![Research Assistant](../assets/imgs/experience/headers/RA_header.png){width="250"}](#research-assistant)
+[![Research Assistant](../assets/imgs/experience/headers/RA_header.png){width="400"}](#research-assistant)
 
 [![Master Research](../assets/imgs/experience/headers/MS_header.png){width="250"}](#master-student)
 
