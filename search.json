@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MSci Romanzini-Bezerra Slides",
-    "section": "",
-    "text": "Public facing homepage for MSci Romanzini-Bezerra’s slides collection"
-  },
-  {
-    "objectID": "index.html#slides",
-    "href": "index.html#slides",
-    "title": "MSci Romanzini-Bezerra Slides",
-    "section": "Slides:",
-    "text": "Slides:\n\nCONSTRAIN Poster Bibliography"
-  },
-  {
-    "objectID": "index.html#interview",
-    "href": "index.html#interview",
-    "title": "MSci Romanzini-Bezerra Slides",
-    "section": "Interview:",
-    "text": "Interview:\n\nPhD Interview - Integrated PhD and MSc in Future Fluid Dynamics 2024\n\nNote: this page is under construction. As soon as new slides are available, new links will be provided."
-  },
-  {
     "objectID": "interview/fd-phd-2024.html#research-experience",
     "href": "interview/fd-phd-2024.html#research-experience",
     "title": "PhD Interview - Integrated PhD and MSc in Future Fluid Dynamics",
     "section": "Research Experience",
-    "text": "Research Experience\n\n\n\n\n\n\nResearch Assistant\n\n\n\n\n\nMaster Research\n\n\n\n\n\n\n\n\n\nProfessional Certificate in Data Science\n\n\n\n\n\nUndergrad Research"
+    "text": "Research Experience"
   },
   {
     "objectID": "interview/fd-phd-2024.html#research-assistant",
@@ -75,5 +54,26 @@
     "title": "Rapidly observable temperature signals following stringent climate mitigation",
     "section": "Qr Code",
     "text": "Qr Code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MSci Romanzini-Bezerra Slides",
+    "section": "",
+    "text": "Public facing homepage for MSci Romanzini-Bezerra’s slides collection"
+  },
+  {
+    "objectID": "index.html#slides",
+    "href": "index.html#slides",
+    "title": "MSci Romanzini-Bezerra Slides",
+    "section": "Slides:",
+    "text": "Slides:\n\nCONSTRAIN Poster Bibliography"
+  },
+  {
+    "objectID": "index.html#interview",
+    "href": "index.html#interview",
+    "title": "MSci Romanzini-Bezerra Slides",
+    "section": "Interview:",
+    "text": "Interview:\n\nPhD Interview - Integrated PhD and MSc in Future Fluid Dynamics 2024\n\nNote: this page is under construction. As soon as new slides are available, new links will be provided."
   }
 ]
