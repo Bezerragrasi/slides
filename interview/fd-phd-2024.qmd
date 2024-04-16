@@ -34,7 +34,7 @@ Obs: Replace the images! You can also remove the image caption and increase the 
 
 ## Research Assistant
 
-![](../assets/imgs/experience/RA/UoL_Summary.png){width="2000"}
+![](../assets/imgs/experience/RA/UoL_Summary.png)
 
 ## Master Research
 
