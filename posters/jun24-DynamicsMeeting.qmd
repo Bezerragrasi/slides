@@ -1,0 +1,24 @@
+---
+format:
+  html:
+    embed-resources: true
+title: "Add Title - Dynamics Meeting 2024 - Poster Bibliography" 
+author: "Grasiele Romanzini-Bezerra, Amanda C. Maycock"
+bibliography: nov23-constrain.bib
+---
+
+## Bibliography{.smaller}
+
+---
+nocite: |
+  @Lamboll2023, @Hegglin2022, @Tebaldi, @Spring2020, @Maycock2016, @ONeill2016,
+  @Maycock2018, @IPCC2021, @marotzke2019, @mckenna2021, @maher2020, @zelinka2020,
+  @zou2016, @Lee2021, @Manabe1975
+---
+
+::: {#refs}
+:::
+
+## Qr Code
+
+{{< qrcode https://bezerragrasi.github.io/slides/posters/jun24-DynamicsMeeting width=100 height=100 colorDark='#008ad5' >}}

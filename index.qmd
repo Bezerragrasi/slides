@@ -9,7 +9,8 @@ Public facing homepage for MSci Romanzini-Bezerra's slides collection
 
 ## Slides: 
 
-- [CONSTRAIN Poster Bibliography](./posters/nov23-constrain.qmd)
+- [CONSTRAIN 2023 - Poster Bibliography](./posters/nov23-constrain.qmd)
+- [Dynamics Meeting 2024 - Poster Bibliography](./posters/jun24-DynamicsMeeting.qmd)
 
 ## Interview:
 
