@@ -2,18 +2,16 @@
 format:
   html:
     embed-resources: true
-title: "Add Title - Dynamics Meeting 2024 - Poster Bibliography" 
-author: "Grasiele Romanzini-Bezerra, Amanda C. Maycock"
-bibliography: nov23-constrain.bib
+title: "Subseasonal forecasts of eddy-driven jet characteristics during the 2018 and 2019 stratospheric sudden warmings - 9th UK Climate Dynamics Workshop 2024 - Poster Bibliography" 
+author: "Grasiele Romanzini-Bezerra, Jacob Perez, Amanda C. Maycock"
+bibliography: jun24-DynamicsMeeting.bib
 ---
 
 ## Bibliography{.smaller}
 
 ---
 nocite: |
-  @Lamboll2023, @Hegglin2022, @Tebaldi, @Spring2020, @Maycock2016, @ONeill2016,
-  @Maycock2018, @IPCC2021, @marotzke2019, @mckenna2021, @maher2020, @zelinka2020,
-  @zou2016, @Lee2021, @Manabe1975
+  @Perez2024, @Hitchcock2022, @Simpson2019, @Parker2019, @Woollings2018
 ---
 
 ::: {#refs}
